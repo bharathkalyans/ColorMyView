@@ -10,6 +10,7 @@
         <item name="android:fontFamily">@font/roboto</item>
     </style>
 
+<!--use below style for other purposes!-->
 
     <style name="PurpleBox">
         <item name="android:background">@android:color/holo_purple</item>
